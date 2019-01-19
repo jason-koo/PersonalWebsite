@@ -9,7 +9,7 @@ body {
 	background-color: black;
 }
 .home-inner {
-	background-image: url(city.jpg);
+	
 }
 
 
@@ -58,6 +58,9 @@ h3.heading {
 	display: table;
 	background: #E9ECEF;
 	z-index: -1;
+	background-image: url(image/city.jpg);
+	background-size: cover;
+	background-position: top;
 }
 .home-wrap {
 	clip: rect(0, auto, auto, 0);
