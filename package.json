@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d Jason_Koo_Website"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jason-koo/PersonalWebsite/issues"
   },
-  "homepage": "https://jason-koo.github.io/PersonalWebsite"
+  "homepage": "https://jason-koo.github.io/PersonalWebsite",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
