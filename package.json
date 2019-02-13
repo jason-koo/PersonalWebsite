@@ -1,0 +1,20 @@
+{
+  "name": "Jason_Koo_Website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Jason_Koo_Website"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-koo/PersonalWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jason-koo/PersonalWebsite/issues"
+  },
+  "homepage": "https://jason-koo.github.io/PersonalWebsite"
+}
